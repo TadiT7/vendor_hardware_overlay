@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-huawei-telephony \
+    treble-overlay-leagoo-m11 \
 	treble-overlay-lenovo-s5 \
 	treble-overlay-lenovo-z5 \
 	treble-overlay-lg-g7 \

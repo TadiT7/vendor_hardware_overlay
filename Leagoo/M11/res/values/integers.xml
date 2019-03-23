@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_multiuserMaximumUsers">4</integer>
+    <integer name="config_defaultNotificationLedOn">2000</integer>
+    <integer name="config_defaultNotificationLedOff">2000</integer>
+    <integer name="config_notificationsBatteryLedOn">250</integer>
+    <integer name="config_notificationsBatteryLedOff">1000</integer>
+    <integer name="config_longPressOnHomeBehavior">2</integer>
+    <integer name="config_memory_default_ratio">2</integer>
+    <integer name="default_volume_call">5</integer>
+    <integer name="default_volume_system">12</integer>
+    <integer name="default_volume_ringer">12</integer>
+    <integer name="default_volume_music">12</integer>
+    <integer name="default_volume_alarm">12</integer>
+    <integer name="default_volume_notification">12</integer>
+    <integer name="default_volume_bluetooth_sco">12</integer>
+    <integer name="default_volume_system_enforced">12</integer>
+    <integer name="default_volume_dtmf">12</integer>
+    <integer name="default_volume_tts">12</integer>
+    <integer name="default_volume_accessibility">12</integer>
+</resources>
